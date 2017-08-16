@@ -24,7 +24,7 @@
   "devDependencies": {
     "@egis/semantic-dependents-updates-github": "^1.0.9",
     "freeform-semantic-commit-analyzer": "^1.1.0",
-    "semantic-release": "^6.3.6"
+    "semantic-release": "^7.0.1"
   },
   "release": {
     "analyzeCommits": "./node_modules/freeform-semantic-commit-analyzer/dist/index.js"
